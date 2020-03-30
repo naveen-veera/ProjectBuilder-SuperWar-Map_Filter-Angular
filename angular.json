@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "super-war-D3": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "super-war-D3"
+    }
+  },
+  "defaultProject": "super-war-D3",
+  "cli": {
+    "analytics": "faaf0b52-2f9a-4340-9ad6-6dc563144581"
+  }
 }
